@@ -11,7 +11,7 @@
 - [X] ESLinting by [ESLint](http://eslint.org/)
 - [X] Test coverage by [Istambul](https://istanbul.js.org)
 - [X] Travis CI integration
-- [X] Coveralls integration
+- [X] CodeClimate integration
 
 ## Scripts
 | Name          | Function        |
