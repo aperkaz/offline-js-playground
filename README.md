@@ -4,8 +4,12 @@
 ## Features
 - [X] Babel ES6 transpiling
 - [X] Babel [stage-2](https://babeljs.io/docs/plugins/preset-stage-2/) preset
-- [X] Testing by [Mocha](https://mochajs.org/) and [Istambul](https://istanbul.js.org)
+- [X] Testing by [Mocha](https://mochajs.org/)
 - [X] Assertions by [Chai](http://chaijs.com)
+- [X] ESLinting by [ESLint](http://eslint.org/)
+- [X] Test coverage by [Istambul](https://istanbul.js.org)
+- [ ] Travis CI integration
+- [ ] Coveralls integration
 
 ## Scripts
 | Name          | Function        |
@@ -19,3 +23,4 @@
 | `prepublish`  | Exec. `clean`, `lint`, `test` and `build`     |
 
 ## License
+MIT © [Alain Perkaz](https://aperkaz.github.io)
