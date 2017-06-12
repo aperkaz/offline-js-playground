@@ -1,4 +1,7 @@
 # offline-js-playground
+[![Build Status](https://travis-ci.org/aperkaz/offline-js-playground.svg?branch=master)](https://travis-ci.org/aperkaz/offline-js-playground)
+
+[![Code Climate](https://codeclimate.com/github/ooade/NextSimpleStarter/badges/gpa.svg)](https://codeclimate.com/github/ooade/NextSimpleStarter) <br />
 :neckbeard: Rapid JS ES6 development and testing, without UI.
 
 ## Features
@@ -9,7 +12,7 @@
 - [X] ESLinting by [ESLint](http://eslint.org/)
 - [X] Test coverage by [Istambul](https://istanbul.js.org)
 - [X] Travis CI integration
-- [ ] Coveralls integration
+- [X] Coveralls integration
 
 ## Scripts
 | Name          | Function        |

@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "clean": "rimraf lib",
-    "test": "cross-env BABEL_ENV=commonjs mocha --compilers js:babel-register --recursive",
+    "test": "cross-env BABEL_ENV=commonjs mocha --reporter spec --compilers js:babel-register --recursive",
     "test:watch": "npm test -- --watch",
     "cover": "istanbul cover node_modules/mocha/bin/_mocha -- --compilers js:babel-core/register --colors --reporter dot test/",
     "lint": "eslint src test",
-    "build": "cross-env BABEL_ENV=commonjs babel src --out-dir lib"    
+    "build": "cross-env BABEL_ENV=commonjs babel src --out-dir lib"
   },
   "repository": {
     "type": "git",
