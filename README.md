@@ -8,7 +8,7 @@
 - [X] Assertions by [Chai](http://chaijs.com)
 - [X] ESLinting by [ESLint](http://eslint.org/)
 - [X] Test coverage by [Istambul](https://istanbul.js.org)
-- [ ] Travis CI integration
+- [X] Travis CI integration
 - [ ] Coveralls integration
 
 ## Scripts
