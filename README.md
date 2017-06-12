@@ -1,6 +1,5 @@
 # offline-js-playground
 [![Build Status](https://travis-ci.org/aperkaz/offline-js-playground.svg?branch=master)](https://travis-ci.org/aperkaz/offline-js-playground)
-
 [![Code Climate](https://codeclimate.com/github/ooade/NextSimpleStarter/badges/gpa.svg)](https://codeclimate.com/github/ooade/NextSimpleStarter) <br />
 :neckbeard: Rapid JS ES6 development and testing, without UI.
 
