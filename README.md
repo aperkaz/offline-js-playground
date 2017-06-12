@@ -5,7 +5,7 @@
 
 ## Features
 - [X] Babel ES6 transpiling
-- [X] Babel [stage-2](https://babeljs.io/docs/plugins/preset-stage-2/) preset
+- [X] Babel [stage-2](https://babeljs.io/docs/plugins/preset-stage-2/) presets
 - [X] Testing by [Mocha](https://mochajs.org/)
 - [X] Assertions by [Chai](http://chaijs.com)
 - [X] ESLinting by [ESLint](http://eslint.org/)
@@ -22,7 +22,6 @@
 | `cover`       | Yeld coverage    |
 | `lint`        | Lint JS errors   |
 | `build`       | Transpile ES6 to ES5  |
-| `prepublish`  | Exec. `clean`, `lint`, `test` and `build`     |
 
 ## License
 MIT © [Alain Perkaz](https://aperkaz.github.io)
